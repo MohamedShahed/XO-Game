@@ -59,7 +59,8 @@ void fillBoard(int c)
 
 }
 void printBoard()
-{
+{ 
+   system("clear"); 
 
     for(int i=0; i<N; i++)
     {
